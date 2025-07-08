@@ -17,7 +17,7 @@ body {
 
 .button {
   background-color: #1f1f1f;
-  color: #f5f5f5;
+  color: yellow;
   padding: 0.6rem 1.2rem;
   border: 2px solid #444;
   border-radius: 8px;
@@ -48,7 +48,7 @@ header, nav {
 }
 
 ol li a{
-  color: #1a0dab;
+  color: yellow;
 }
 
 a {
@@ -109,6 +109,10 @@ main {
   display: block;
   margin: 1rem 0;
   border-radius: 0.5rem; /* opcional: para bordes redondeados */
+}
+
+p {
+  text-align: justify;
 }
 
 
