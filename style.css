@@ -51,9 +51,11 @@ ol li a{
   color: yellow;
 }
 
-iframe{
-  text-align: center;
-}
+/* iframe{
+    display: grid;
+    place-items: center;
+    width: 100%;
+} */
 
 strong {
   color: yellow;
