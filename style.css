@@ -17,7 +17,7 @@ body {
 
 .button {
   background-color: #1f1f1f;
-  color: yellow;
+  color: #1fbdd2;
   padding: 0.6rem 1.2rem;
   border: 2px solid #444;
   border-radius: 8px;
@@ -40,15 +40,16 @@ header, nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  vertical-align: middle;
   background: var(--accent);
   padding: 1rem;
   border-radius: 0.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   font-size: 1.7rem; /* Tamaño de texto mayor para navbar */
 }
 
 ol li a{
-  color: yellow;
+  color: #1fbdd2;
 }
 
 /* iframe{
@@ -58,7 +59,7 @@ ol li a{
 } */
 
 strong {
-  color: yellow;
+  color: #1fbdd2;
 }
 
 a {
